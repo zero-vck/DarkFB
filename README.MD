@@ -10,5 +10,4 @@
 </ul>
 <br />
 <br />
-<br />
 <img src="https://github.com/JeelsBoobz/DarkFB/raw/master/Screenshot_2019-06-20-00-22-54-768_com.termux.png" />
