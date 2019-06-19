@@ -1,2 +1,9 @@
+#DarkFB
 
-<h3>GAK DI SHARE YA BAMBANG :V</h3>
+pkg install git python2<br>
+pip2 install --upgrade pip<br>
+git clone https://github.com/rezadkim/DarkFB<br>
+cd DarkFB<br>
+pip2 install -r requirements.txt<br>
+python2 DarkFB.py<br>
+<br>
