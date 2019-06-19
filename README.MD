@@ -1,4 +1,5 @@
 # DarkFB
+
 <ul>
 <li><code>pkg install git python2</code></li>
 <li><code>pip2 install --upgrade pip</code></li>
@@ -7,7 +8,7 @@
 <li><code><code>pip2 install -r requirements.txt</code></li>
 <li><code>python2 DarkFB.py</code></li>
 </ul>
-<br>
-<br>
-<br>
-<img src="https://github.com/JeelsBoobz/DarkFB/raw/master/Screenshot_2019-06-20-00-22-54-768_com.termux.png">
+<br />
+<br />
+<br />
+<img src="https://github.com/JeelsBoobz/DarkFB/raw/master/Screenshot_2019-06-20-00-22-54-768_com.termux.png" />
