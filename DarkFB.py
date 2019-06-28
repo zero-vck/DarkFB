@@ -625,7 +625,7 @@ def pilih_super():
     print 52 * '\x1b[1;97m\xe2\x95\x90'
 
     def main(arg):
-        arp = open('password.bin','r').readlines()
+        arp = open('password.bin','r').read().splitlines()
         user = arg
         try:
             a = requests.get('https://graph.facebook.com/' + user + '/?access_token=' + toket)
