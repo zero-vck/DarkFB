@@ -681,7 +681,7 @@ def pilih_super():
             except:
                 pass
 
-    p = ThreadPool(50)
+    p = ThreadPool(20)
     p.map(main, id)
     print '\n\x1b[1;91m[+] \x1b[1;97mFinish'
     raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
