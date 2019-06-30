@@ -9,7 +9,7 @@
 <li><code>python2 DarkFB.py</code></li>
 </ul>
 <br />
-<div style="border:2;"><h3><b><u>Catatan</u> :</b></h5><br />
+<div style="border:2;"><b><u>Catatan</u> :</b><br />
 Jikan ingin menambahkan list password edit dengan command:<br />
 <code>nano password.bin</code>
 </div>
