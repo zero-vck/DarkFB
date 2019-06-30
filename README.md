@@ -14,7 +14,7 @@
 <li>Jikan ingin menambahkan list password edit dengan command:<br />
 <code>nano password.bin</code></li>
 <li>Jika merasa ada log ya bypass saja lasungsung pakai tokenmu dengan command:<br />
-<code>echo "![#f03c15]TOKEN`#f03c15`" > login.txt</li>
+<code>echo "<font fill='red'>TOKEN</font>" > login.txt</li>
 </ul>
 <br />
 <img src="https://github.com/JeelsBoobz/DarkFB/raw/master/Screenshot_2019-06-20-01-07-15-667_com.termux.png" />
